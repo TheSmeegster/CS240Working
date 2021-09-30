@@ -1,0 +1,33 @@
+BODY
+{
+    background-color: rgb(5, 230, 5);
+}
+
+.important{
+    background-color:aqua;
+}
+
+.fancy{
+    border-style: double;
+    border-color: blueviolet;
+}
+
+.left{
+    float:left;
+}
+
+img{
+    border:solid;
+    border-color:black;
+}
+
+p{
+    font-family: Helvetica;
+    font-size: 10pt;
+}
+
+h2{
+    border:dashed;
+    border-color:aqua;
+}
+
